@@ -99,11 +99,11 @@ jobs:
 ### Thank You Dear
 
 > DEVELOPER OF Arslan-MD 
-- [Lord Malvin ](https://github.com/techlord01)
+- [Lord ArslanMD](https://github.com/Arslan-MD)
 - Creater and Owner Of ArslanMD Official 
 
 > Arslan-XD Helper
-- [Malvin King](https://github.com/Arslan-MD)
+- [ArslanMD Official](https://github.com/Arslan-MD)
 - For helping in bot plugin files.
 ---
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>

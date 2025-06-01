@@ -1,6 +1,6 @@
 {
   "name": "Arslan-XD",
-  "version": "3.0.0",
+  "version": "6.0.6",
   "description": "A WhatsApp Bot Created By Arslan-XD",
   "main": "index.js",
   "scripts": {
@@ -15,7 +15,7 @@
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
     "@vitalets/google-translate-api": "^9.2.0",
     "pino": "^7.0.5",
-    "pm2": "^5.2.0",
+    "pm2": "^6.0.6",
     "util": "^0.12.4",
     "express": "latest",
     "axios": "^1.2.5",
